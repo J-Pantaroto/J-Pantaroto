@@ -4,7 +4,7 @@
 📚 **Conhecimentos:** MySQL, PHP, Laravel, HTML, CSS, Bootstrap e mais   
 🎯 **Habilidades:** Treinamento de usuários, ensino de sistemas e solução de problemas técnicos  
 🌱 **Atualmente aprendendo:** Aprofundando meu conhecimento em Laravel  
-👯 **Procurando uma oportunidade no ramo do desenvolvimento de sistemas, desde backend a fronted!  
+👯 Procurando uma oportunidade no ramo do desenvolvimento de sistemas, desde backend a fronted!  
 ---
 
 ## 🚀 Sobre mim
