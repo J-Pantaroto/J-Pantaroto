@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Jhonatan 
 🎓 **Estudante de Engenharia de Software**  
 💻 **Atualmente:** Suporte Técnico em TI na OM Informática.  
-📚 **Conhecimentos:** MySQL, PHP, Laravel, HTML, CSS, Bootstrap e JavaScript
+📚 **Conhecimentos:** MySQL, PHP, Laravel, HTML, CSS, Bootstrap e JavaScript 
 🎯 **Habilidades:** Treinamento de usuários, ensino de sistemas e solução de problemas técnicos  
 🌱 **Atualmente aprendendo:** Aprofundando meu conhecimento em Laravel  
 👯 Procurando uma oportunidade no ramo do desenvolvimento de sistemas, desde backend a fronted!  
