@@ -36,5 +36,5 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando apr
 
 ---
 
-🌟 _"Sempre aprendendo e compartilhando conhecimento."_
+🏐 _"Se eu continuar até conseguir... vou conseguir."_
 
