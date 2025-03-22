@@ -4,12 +4,12 @@
 📚 **Conhecimentos:** MySQL, PHP, Laravel, HTML, CSS, Bootstrap e JavaScript  
 🎯 **Habilidades:** Treinamento de usuários, ensino de sistemas e solução de problemas técnicos  
 🌱 **Atualmente aprendendo:** Aprofundando meu conhecimento em Laravel  
-👯 Procurando uma oportunidade no ramo do desenvolvimento de sistemas, desde backend a fronted!  
+💼 Procurando uma oportunidade no ramo do desenvolvimento de sistemas, desde backend a fronted!  
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando aprender novas tecnologias e enfrentar desafios. Com experiência no suporte técnico, tenho facilidade em ensinar e capacitar usuários, ajudando empresas a aproveitarem ao máximo seus sistemas e ferramentas, busco uma oportunidade para atuar na área de desenvolvimento.
+Sou apaixonado por tecnologia, computadores e desenvolvimento de sistemas, sempre buscando aprender novas tecnologias, enfrentar desafios e buscar soluções para problemas. Com experiência no suporte técnico, tenho facilidade em ensinar e capacitar usuários, ajudando empresas a aproveitarem ao máximo seus sistemas e ferramentas, busco uma oportunidade para atuar na área de desenvolvimento.
 
 ---
 
@@ -20,6 +20,8 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas, sempre buscando apr
 [![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ---
 
