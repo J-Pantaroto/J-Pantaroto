@@ -53,7 +53,7 @@ Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técn
 />
 <img
     align="left"
-    alt="JavScript"
+    alt="JavaScript"
     title="JavaScript"
     width="40px"
     style="padding-right:10px;"
@@ -124,7 +124,7 @@ Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técn
         alt="Github Stats"
         height="210"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=J-Pantaroto&show_icons=true&include_all_commits=true &theme=synthwave&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=J-Pantaroto&show_icons=true&include_all_commits=true&theme=synthwave&locale=pt-br"
     />
 <img
         align="left"
@@ -133,6 +133,7 @@ Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técn
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Pantaroto&layout=compact&theme=synthwave&locale=pt-br&custom_title=Tecnologias&langs_count=10"
     />
+
 </p>
 <br clear="left"/>
 <br/><br/><br/>
@@ -142,7 +143,8 @@ Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técn
 <p>
   <img 
     src="https://media1.tenor.com/m/3J7wvcm8XREAAAAd/tanaka-haikyuu-spike-kill-volleyball-cross-shot-left.gif" 
-    alt="Tanaka Haikyuu" 
+    alt="Tanaka Haikyuu"
+    title="Tanaka em ação!"
     width="300"
   />
 </p>
