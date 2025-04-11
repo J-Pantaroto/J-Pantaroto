@@ -131,7 +131,7 @@ Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técn
         alt="Github Stats"
         height="210"
         style="padding-right: 10px;"
-        src=""
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Pantaroto&theme=synthwave&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=10"
     />
 
 </p>
