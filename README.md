@@ -1,42 +1,148 @@
-# 👋 Olá! Eu sou o Jhonatan 
-🎓 **Estudante de Engenharia de Software**  
-💻 **Atualmente:** Suporte Técnico em TI na OM Informática.  
-📚 **Conhecimentos:** MySQL, PHP, Laravel, HTML, CSS, Bootstrap e JavaScript  
-🎯 **Habilidades:** Treinamento de usuários, ensino de sistemas e solução de problemas técnicos  
-🌱 **Aprendendo:** Aprofundando meu conhecimento em React e Next.js  
-💼 Procurando uma oportunidade no ramo do desenvolvimento de sistemas, desde backend a fronted!  
----
+# 💻 Jhonatan  Pantaroto
+**` Desenvolvedor FullStack focado em backend com PHP, Laravel e banco de dados relacionais`**
 
-## 🚀 Sobre mim
+Me chamo Jhonatan de Oliveira Pantaroto, tenho 23 anos e sou do Mato Grosso do Sul. Concluí o ensino médio em escola pública e fiz um curso técnico em Informática pelo SENAC.
 
-Sou apaixonado por tecnologia, computadores e desenvolvimento de sistemas, sempre buscando aprender novas tecnologias, enfrentar desafios e buscar soluções para problemas. Com experiência no suporte técnico, tenho facilidade em ensinar e capacitar usuários, ajudando empresas a aproveitarem ao máximo seus sistemas e ferramentas, busco uma oportunidade para atuar na área de desenvolvimento.
+Atualmente curso Engenharia de Software na UNIGRAN (Centro Universitário da Grande Dourados). Desde pequeno sou apaixonado por tecnologia — de hardware a software. Gosto de me sentir desafiado e amo a sensação de resolver problemas complexos.
 
----
-
-## 🌟 Tecnologias e Ferramentas
-[![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-
----
-
-## 📈 Estatísticas do GitHub
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-Pantaroto&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Pantaroto&layout=compact&theme=radical)
-
----
-
-## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/j-pantaroto)
-- 📧 Email: jhonatanpantaroto@gmail.com
+Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técnico, onde venho aprimorando minhas habilidades técnicas e de programação.
 
 
----
+<p align="left">
+  <a href="mailto:jhonatanpantaroto@gmail.com" target="_blank">
+    <img 
+      alt="Gmail" 
+      title="Me envie um e-mail" 
+      src="https://img.shields.io/badge/Gmail-jhonatanpantaroto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/j-pantaroto/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Pantaroto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://wa.me/5567996228134" target="_blank">
+    <img 
+      alt="WhatsApp" 
+      title="Me chame no WhatsApp" 
+      src="https://img.shields.io/badge/WhatsApp-(67)%2099622--8134-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    />
+  </a>
+</p>
 
-🏐 _"Se eu continuar até conseguir... vou conseguir."_
+### 🌟 Linguagens e Tecnologias
 
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+ />
+
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img
+    align="left"
+    alt="JavScript"
+    title="JavaScript"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img
+    align="left"
+    alt="BOOTSTRAP"
+    title="BOOTSTRAP"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/> 
+<img
+    align="left"
+    alt="MYSQL"
+    title="MYSQL"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="POSTGRESQL"
+    title="POSTGRESQL"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img
+    align="left"
+    alt="DOCKER"
+    title="DOCKER"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+
+<img
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="LARAVEL"
+    title="LARAVEL"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+<br/>
+<br clear="left"/>
+
+### 🚀 Atualmente estudando:
+- ⚛️ React & Node.js
+- 🧠 Design Patterns
+- 🏗️ Arquitetura de Software
+
+### 📈 Estatísticas
+<p>
+
+<img
+        align="left"
+        alt="Github Stats"
+        height="210"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=J-Pantaroto&show_icons=true&include_all_commits=true &theme=synthwave&locale=pt-br"
+    />
+<img
+        align="left"
+        alt="Github Stats"
+        height="210"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Pantaroto&layout=compact&theme=synthwave&locale=pt-br&custom_title=Tecnologias&langs_count=10"
+    />
+</p>
+<br clear="left"/>
+<br/><br/><br/>
+
+### 🏐 "Se eu continuar até conseguir... vou conseguir."
+
+<p>
+  <img 
+    src="https://media1.tenor.com/m/3J7wvcm8XREAAAAd/tanaka-haikyuu-spike-kill-volleyball-cross-shot-left.gif" 
+    alt="Tanaka Haikyuu" 
+    width="300"
+  />
+</p>
