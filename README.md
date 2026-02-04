@@ -3,9 +3,9 @@
 
 Me chamo Jhonatan de Oliveira Pantaroto, tenho 24 anos e sou do Mato Grosso do Sul. Concluí o ensino médio em escola pública e fiz um curso técnico em Informática pelo SENAC.
 
-Atualmente curso Engenharia de Software na UNIGRAN (Centro Universitário da Grande Dourados). Desde pequeno sou apaixonado por tecnologia — de hardware a software. Gosto de me sentir desafiado e amo a sensação de resolver problemas complexos.
+Sou formado em Engenharia de Software pela UNIGRAN (Centro Universitário da Grande Dourados). Desde pequeno sou apaixonado por tecnologia — de hardware a software. Gosto de me sentir desafiado e amo a sensação de resolver problemas complexos e reais.
 
-Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técnico, onde venho aprimorando minhas habilidades técnicas e de programação.
+Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técnico, onde venho aprimorando minhas habilidades técnicas, análise de problemas, lógica para consultas complexas em bancos relacionais e ténicas de programação.
 
 
 <p align="left">
