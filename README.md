@@ -1,7 +1,7 @@
 # 💻 Jhonatan  Pantaroto
 **` Desenvolvedor FullStack focado em backend com PHP, Laravel e banco de dados relacionais`**
 
-Me chamo Jhonatan de Oliveira Pantaroto, tenho 23 anos e sou do Mato Grosso do Sul. Concluí o ensino médio em escola pública e fiz um curso técnico em Informática pelo SENAC.
+Me chamo Jhonatan de Oliveira Pantaroto, tenho 24 anos e sou do Mato Grosso do Sul. Concluí o ensino médio em escola pública e fiz um curso técnico em Informática pelo SENAC.
 
 Atualmente curso Engenharia de Software na UNIGRAN (Centro Universitário da Grande Dourados). Desde pequeno sou apaixonado por tecnologia — de hardware a software. Gosto de me sentir desafiado e amo a sensação de resolver problemas complexos.
 
@@ -99,6 +99,14 @@ Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técn
     width="40px"
     style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img
+    align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="40px"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
     align="left"
