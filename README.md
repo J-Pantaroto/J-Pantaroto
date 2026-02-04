@@ -132,14 +132,14 @@ Trabalho atualmente em uma Software House, a OM Informática, como Suporte Técn
         alt="Github Stats"
         height="210"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=J-Pantaroto&show_icons=true&include_all_commits=true&theme=synthwave&locale=pt-br"
+        src="https://github-readme-stats-fast.vercel.app/api?username=J-Pantaroto&show_icons=true&include_all_commits=true&theme=synthwave&locale=pt-br"
     />
 <img
         align="left"
         alt="Github Stats"
         height="210"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Pantaroto&theme=synthwave&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=10"
+        src="https://github-readme-stats-fast.vercel.app/api?username=J-Pantaroto&theme=synthwave&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=10"
     />
 
 </p>
